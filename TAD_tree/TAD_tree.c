@@ -31,4 +31,4 @@ Node* tree_filter(Node* root, int (condition)(void*));
 /*
 
 */
-Node* tree_search(Node* root, int (condition)(void*));Node * tree_create_empty();
+Node* tree_search(Node* root, int (condition)(void*));
